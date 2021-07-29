@@ -22,7 +22,6 @@ class Result extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    //TODO BUTTON TO BOTTOM SUCKA , TRY TO CHANGE CENTER TO CONTAINER AND FLEX AFTER THAT
     return Container(
       child: Column(
         children: [
